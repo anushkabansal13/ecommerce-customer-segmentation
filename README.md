@@ -1,4 +1,4 @@
-# ECommerce Customer Segmentation
+# E-Commerce Customer Segmentation
 
 ## Problem
 ECommerce businesses send the same messages to all customers without knowing who is loyal, who is about to leave, and who just started buying. This wastes marketing budget and loses customers.
@@ -23,10 +23,10 @@ UCI Online Retail Dataset — 541,909 transactions from a UK-based store (2010�
 
 | Segment | Customers | Avg Spend |
 |---|---|---|
-| 🏆 Champions | 10% | £3,899 |
-| ❤️ Loyal | 21% | £2,054 |
-| 🆕 New / Promising | 25% | £1,757 |
-| 😴 Dormant | 44% | £740 |
+| 🏆 Champions | 17.7% | £3,899 |
+| ❤️ Loyal | 22% | £2,054 |
+| 🆕 New / Promising | 27.1% | £1,757 |
+| 😴 Dormant | 33.1% | £740 |
 
 ## Tools
 Python · pandas · scikit-learn · matplotlib · seaborn
