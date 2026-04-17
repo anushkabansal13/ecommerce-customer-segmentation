@@ -30,3 +30,7 @@ UCI Online Retail Dataset — 541,909 transactions from a UK-based store (2010�
 
 ## Tools
 Python · pandas · scikit-learn · matplotlib · seaborn
+
+## Dashboard
+{<img width="1199" height="1199" alt="CUSTOMER BEHAVIOR   SEGMENTATION" src="https://github.com/user-attachments/assets/81975438-6517-4412-88ce-788df35bc4ee" />
+}
